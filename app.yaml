@@ -1,5 +1,4 @@
 runtime: nodejs16 # or another supported version
-service: be-pajakkendaraan-login
 
 env_variables:
   BUCKET_NAME: "be-vehicletaxes-bucket"
